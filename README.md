@@ -1,12 +1,12 @@
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OdinoCano.OdinoCano&"  />
-</div>
+<h1 align="center">Full-Stack Senior 🖥️📡</h1>
 
 ###
 
-<h1 align="center">Full-Stack Senior 🖥️📡</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OdinoCano.OdinoCano&"  />
+</div>
 
 ###
 
