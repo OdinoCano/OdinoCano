@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Full-Stack Senior 🖥️📡</h1>
+<h1 align="center">Full-Stack Developer Senior 🖥️📡</h1>
 
 ###
 
