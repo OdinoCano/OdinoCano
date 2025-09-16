@@ -51,45 +51,48 @@ Senior Full-Stack Developer with over a decade of experience architecting enterp
   <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT" title="JWT" style="background:white;padding:2px;"/>
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="K8s Security" title="K8s Security"/>
-</div></span><h3></h3><h2><span>🔥 Technical Highlights</span></h2><h3></h3><div class="md-code-block md-code-block-dark"><div class="md-code-block-banner-wrap"><div class="md-code-block-banner md-code-block-banner-lite"><div class="_121d384"><div class="d2a24f03">class ProfessionalImpact</span><span class="token punctuation">:</span>
-    
-    <span class="token keyword">def</span> <span class="token function">recent_achievements</span><span class="token punctuation">(</span>self<span class="token punctuation">)</span><span class="token punctuation">:</span>
-        <span class="token keyword">return</span> <span class="token punctuation">{</span>
-            <span class="token string">"ADIP Government Project"</span><span class="token punctuation">:</span> <span class="token punctuation">{</span>
-                <span class="token string">"role"</span><span class="token punctuation">:</span> <span class="token string">"API Development Lead"</span><span class="token punctuation">,</span>
-                <span class="token string">"tech"</span><span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token string">"FastAPI"</span><span class="token punctuation">,</span> <span class="token string">"Python"</span><span class="token punctuation">,</span> <span class="token string">"Zero Trust"</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
-                <span class="token string">"impact"</span><span class="token punctuation">:</span> <span class="token string">"Built secure internet services API for government sector"</span>
-            <span class="token punctuation">}</span><span class="token punctuation">,</span>
-            <span class="token string">"Finvero Automation"</span><span class="token punctuation">:</span> <span class="token punctuation">{</span>
-                <span class="token string">"role"</span><span class="token punctuation">:</span> <span class="token string">"Senior Full-Stack Developer L2"</span><span class="token punctuation">,</span>
-                <span class="token string">"tech"</span><span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token string">"Node.js"</span><span class="token punctuation">,</span> <span class="token string">"MySQL"</span><span class="token punctuation">,</span> <span class="token string">"Docker"</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
-                <span class="token string">"impact"</span><span class="token punctuation">:</span> <span class="token string">"Automated 30% of operational processes, reduced L1 support time by 20%"</span>
-            <span class="token punctuation">}</span><span class="token punctuation">,</span>
-            <span class="token string">"SEATI Performance Optimization"</span><span class="token punctuation">:</span> <span class="token punctuation">{</span>
-                <span class="token string">"role"</span><span class="token punctuation">:</span> <span class="token string">"Senior Full-Stack Developer"</span><span class="token punctuation">,</span>
-                <span class="token string">"tech"</span><span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token string">"PHP"</span><span class="token punctuation">,</span> <span class="token string">"NodeJS"</span><span class="token punctuation">,</span> <span class="token string">"MySQL"</span><span class="token punctuation">,</span> <span class="token string">"R"</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
-                <span class="token string">"impact"</span><span class="token punctuation">:</span> <span class="token string">"Enhanced API efficiency and database scalability for financial systems"</span>
-            <span class="token punctuation">}</span>
-        <span class="token punctuation">}</span>
-    
-    <span class="token keyword">def</span> <span class="token function">core_expertise</span><span class="token punctuation">(</span>self<span class="token punctuation">)</span><span class="token punctuation">:</span>
-        <span class="token keyword">return</span> <span class="token punctuation">[</span>
-            <span class="token string">"Cloud-Native Architecture (AWS/Azure/GCP)"</span><span class="token punctuation">,</span>
-            <span class="token string">"High-Performance API Design &amp; Optimization"</span><span class="token punctuation">,</span>
-            <span class="token string">"Security-First Development (OWASP/Zero Trust/mTLS)"</span><span class="token punctuation">,</span>
-            <span class="token string">"Cross-Platform Solutions (Web/Mobile/IoT)"</span><span class="token punctuation">,</span>
-            <span class="token string">"Mathematical Modeling &amp; Data Science"</span><span class="token punctuation">,</span>
-            <span class="token string">"DevOps &amp; CI/CD Automation"</span><span class="token punctuation">,</span>
-            <span class="token string">"Quantum Computing Applications"</span>
-        <span class="token punctuation">]</span>
-    
-    <span class="token keyword">def</span> <span class="token function">certifications</span><span class="token punctuation">(</span>self<span class="token punctuation">)</span><span class="token punctuation">:</span>
-        <span class="token keyword">return</span> <span class="token punctuation">[</span>
-            <span class="token string">"AWS Certified Cloud Practitioner"</span><span class="token punctuation">,</span>
-            <span class="token string">"Docker for Developers"</span><span class="token punctuation">,</span>
-            <span class="token string">"Master the OWASP Top 10"</span><span class="token punctuation">,</span>
-            <span class="token string">"Quantum Programming (In Progress - 2025)"</span>
-        <span class="token punctuation">]</span></pre><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="_9bc997d _33882ae"><path d="M-5.24537e-07 0C-2.34843e-07 6.62742 5.37258 12 12 12L0 12L-5.24537e-07 0Z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" class="_9bc997d _28d7e84"><path d="M-5.24537e-07 0C-2.34843e-07 6.62742 5.37258 12 12 12L0 12L-5.24537e-07 0Z" fill="currentColor"></path></svg></div><h3></h3><h2><span>📈 GitHub Analytics</span></h2><h3></h3><span class="ds-markdown-html"><div align="center">
+## 🔥 Technical Highlights
+
+```python
+class ProfessionalImpact:
+    def recent_achievements(self):
+        return {
+            "ADIP Government Project": {
+                "role": "API Development Lead",
+                "tech": ["FastAPI", "Python", "Zero Trust"],
+                "impact": "Built secure internet services API for government sector"
+            },
+            "Finvero Automation": {
+                "role": "Senior Full-Stack Developer L2",
+                "tech": ["Node.js", "MySQL", "Docker"],
+                "impact": "Automated 30% of operational processes, reduced L1 support time by 20%"
+            },
+            "SEATI Performance Optimization": {
+                "role": "Senior Full-Stack Developer",
+                "tech": ["PHP", "NodeJS", "MySQL", "R"],
+                "impact": "Enhanced API efficiency and database scalability for financial systems"
+            }
+        }
+
+    def core_expertise(self):
+        return [
+            "Cloud-Native Architecture (AWS/Azure/GCP)",
+            "High-Performance API Design & Optimization",
+            "Security-First Development (OWASP/Zero Trust/mTLS)",
+            "Cross-Platform Solutions (Web/Mobile/IoT)",
+            "Mathematical Modeling & Data Science",
+            "DevOps & CI/CD Automation",
+            "Quantum Computing Applications"
+        ]
+
+    def certifications(self):
+        return [
+            "AWS Certified Cloud Practitioner",
+            "Docker for Developers",
+            "Master the OWASP Top 10",
+            "Quantum Programming (In Progress - 2025)"
+        ]
+```
   <img src="https://github-readme-stats.vercel.app/api?username=OdinoCano&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=OdinoCano&amp;locale=en&amp;mode=weekly&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;date_format=j/n%5B/Y%5D&amp;order=3" height="220" alt="streak graph"  />
 </div></span><h3></h3><span class="ds-markdown-html"><div align="center">
