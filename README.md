@@ -28,35 +28,35 @@ Passionate about quantum computing and cutting-edge technologies.
 <!-- Cloud & DevOps -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS" title="AWS"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40" alt="Azure" title="Azure"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" title="GCP"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40" alt="GCP" title="GCP"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40" alt="Kubernetes" title="Kubernetes"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="40" alt="Docker" title="Docker"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="40" alt="Terraform" title="Terraform"/>
 
 <!-- Backend -->
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Golang" title="Golang"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="40" alt="Golang" title="Golang"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python" title="Python"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" alt="Node.js" title="Node.js"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" alt="Java" title="Java"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="PHP" title="PHP"/>
 
 <!-- Databases -->
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40" alt="MySQL" title="MySQL"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="MongoDB" title="MongoDB"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j" title="Neo4j"/>
 <img width="12"/>
@@ -64,15 +64,15 @@ Passionate about quantum computing and cutting-edge technologies.
 
 <!-- Frontend & Mobile -->
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" title="React"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="40" alt="Angular" title="Angular"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" height="40" alt="Flutter" title="Flutter"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" title="Android"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" height="40" alt="Android" title="Android"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift/iOS" title="iOS"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" height="40" alt="Swift/iOS" title="iOS"/>
 
 <!-- Security -->
 <img width="12"/>
