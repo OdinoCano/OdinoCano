@@ -1,132 +1,111 @@
-# 🚀 Senior Full-Stack Developer & Cloud Security Specialist
+# 🚀 Senior Full-Stack Developer · Cloud Security (Zero Trust)
 
-### Architecting scalable, secure systems with 10+ years of expertise in cloud-native solutions and mathematical optimization
+**Arquitecto de sistemas escalables y seguros** · +10 años · Cloud-Native · Optimizaciones con base matemática
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=OdinoCano.OdinoCano)
+[🌐 Portafolio](https://cv4me.net) · [💼 LinkedIn](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228) · [✉️ Email](mailto:edgarcano.166@gmail.com)
 
----
-
-## 👨‍💻 Technical Profile
-
-Senior Full-Stack Developer with over a decade of experience architecting enterprise-grade solutions across fintech, government, and IoT sectors.  
-Combines deep expertise in cloud infrastructure, security engineering, and performance optimization with applied mathematics background.  
-Passionate about quantum computing and cutting-edge technologies.
-
-- 🔭 **Delivered 50+ production systems** including high-traffic APIs, mobile apps, and distributed cloud architectures  
-- ⚡ **Reduced operational costs by 30%** through process automation and cloud optimization  
-- 🔒 **Implemented Zero Trust security** with mTLS and OWASP ASVS compliance  
-- 📚 **Leveraging Mathematical Foundations** from FES Acatlán for algorithmic optimization and data science  
-- ♟️ Chess enthusiast & aerial dancer with passion for complex problem solving  
-- ⚛️ **Currently pursuing Quantum Programming Certification** (2025)  
+**ES | [EN](#english-version)**
 
 ---
 
-## 🛠️ Technical Arsenal
+## ⚡ Impacto (ES)
+- Entregué **50+ sistemas en producción** (APIs de alto tráfico, móviles y nubes distribuidas).
+- **-30% costos operativos** con automatización y optimización en cloud.
+- **Zero Trust**: mTLS + controles OWASP ASVS en APIs críticas.
 
+## 🧠 Perfil Técnico (ES)
+Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad aplicada, performance y modelado matemático. Interés activo en **computación cuántica**.
+
+- Core: **Go, Java, Node.js, Python, PHP** · **PostgreSQL/MySQL/MongoDB**
+- DevOps: **Docker, Kubernetes, Terraform, CI/CD**
+- Seguridad: **mTLS, JWT, OWASP ASVS, hardening**
+
+## 📌 Proyectos Destacados (ES)
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| **API Health Monitor** | SaaS para monitorear APIs, alertas y reports | FastAPI · Prometheus · Grafana · K8s |
+| **TataKids** | Juego educativo móvil (números/alfabeto) | React Native · MMKV · Lottie |
+| **SeguClick** | Extensión para agentes de seguros (productividad) | JS/TS · Browser APIs |
+
+> Más en **cv4me.net**
+
+## 🔥 Highlights (ES)
+- **APIs de alto rendimiento** + **observabilidad** end-to-end.  
+- **CI/CD** y GitOps; infra reproducible con **Terraform**.  
+- **Cifrado en tránsito** (mTLS), hardening, gestión de secretos.  
+- Formación en **optimización algorítmica** (FES Acatlán).  
+- ⚛️ En curso: **Quantum Programming Certification (2025)**.
+
+---
+
+## 🧰 Tech (detalle)
+<details>
+<summary>Ver más</summary>
+
+**Cloud & DevOps**: AWS, Azure, GCP · Docker · Kubernetes · Terraform · GitHub Actions  
+**Back**: Go, Java (Spring), Node.js (Express/Fastify), Python (FastAPI), PHP (Laravel)  
+**Data**: PostgreSQL, MySQL, MongoDB, Neo4j, Databricks  
+**Front/Móvil**: React, Angular, React Native, Flutter · Android/iOS  
+**Seguridad**: OWASP ASVS, mTLS, JWT, SAST/DAST, secretos
+
+</details>
+
+---
+
+## 🔄 Proyectos recientes (auto-actualizados)
+<!--START_SECTION:projects-->
+_Aquí aparecerán tus repos más recientes…_
+<!--END_SECTION:projects-->
+
+## 📊 GitHub (ligero)
 <div align="center">
-
-<!-- Cloud & DevOps -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS" title="AWS"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="40" alt="Azure" title="Azure"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="40" alt="GCP" title="GCP"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40" alt="Kubernetes" title="Kubernetes"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="40" alt="Docker" title="Docker"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="40" alt="Terraform" title="Terraform"/>
-
-<!-- Backend -->
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="40" alt="Golang" title="Golang"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python" title="Python"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" alt="Node.js" title="Node.js"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" alt="Java" title="Java"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="PHP" title="PHP"/>
-
-<!-- Databases -->
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40" alt="MySQL" title="MySQL"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="40" alt="MongoDB" title="MongoDB"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j" title="Neo4j"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" height="40" alt="Databricks" title="Databricks"/>
-
-<!-- Frontend & Mobile -->
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" title="React"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="40" alt="Angular" title="Angular"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" height="40" alt="Flutter" title="Flutter"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" height="40" alt="Android" title="Android"/>
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" height="40" alt="Swift/iOS" title="iOS"/>
-
-<!-- Security -->
-<img width="12"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/OWASP_black_logo.svg" height="40" alt="OWASP" title="OWASP"/>
-<img width="12"/>
-<img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT" title="JWT" style="background:white;padding:2px;"/>
-
+  <img alt="GitHub Stats" height="160"
+       src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&theme=transparent" />
+  <img alt="Streak" height="160"
+       src="https://streak-stats.demolab.com?user=OdinoCano&theme=transparent" />
 </div>
 
 ---
 
-## 🔥 Technical Highlights
+## 🤝 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000.svg?logo=vercel&logoColor=white)](https://cv4me.net)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:edgarcano.166@gmail.com)
 
-```python
-class ProfessionalImpact:
-    def recent_achievements(self):
-        return {
-            "ADIP Gov Project": {"role": "API Lead", "tech": ["FastAPI", "Python", "Zero Trust"], "impact": "Built secure gov APIs"},
-            "Finvero Automation": {"role": "Sr Full-Stack Dev L2", "tech": ["Node.js", "MySQL", "Docker"], "impact": "Automated 30% ops, -20% support time"},
-            "SEATI Optimization": {"role": "Sr Full-Stack Dev", "tech": ["PHP", "NodeJS", "MySQL", "R"], "impact": "Enhanced API & DB scalability"}
-        }
+---
 
-    def core_expertise(self):
-        return [
-            "Cloud-Native (AWS/Azure/GCP)",
-            "High-Performance API Design",
-            "Zero Trust / mTLS / OWASP",
-            "Cross-Platform (Web/Mobile/IoT)",
-            "Math Modeling & Data Science",
-            "DevOps & CI/CD",
-            "Quantum Computing"
-        ]
+## English version
 
-    def certifications(self):
-        return [
-            "AWS Certified Cloud Practitioner",
-            "Docker for Developers",
-            "Master the OWASP Top 10",
-            "Quantum Programming (In Progress - 2025)"
-        ]
-```
+### <a id="english-version"></a>🚀 Senior Full-Stack Developer · Cloud Security (Zero Trust)
 
-## 📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&theme=dark" height="160"/> <img src="https://streak-stats.demolab.com?user=OdinoCano&theme=dark" height="160"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdinoCano&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true" height="250"/> </div>
+Architect of **scalable, secure systems** · 10+ years · Cloud-Native · Data-driven optimization
 
-## 🌐 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/edgar-misael-cano-dominguez-234333228" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://cv4me.net" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:edgarcano.166@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-  </a>
-</div>
+[🌐 Portfolio](https://cv4me.net) · [💼 LinkedIn](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228) · [✉️ Email](mailto:edgarcano.166@gmail.com)
+
+### ⚡ Impact (EN)
+- Delivered **50+ production systems** (high-traffic APIs, mobile apps, distributed clouds).
+- **30% cost reduction** via automation and cloud optimization.
+- **Zero Trust**: mTLS + OWASP ASVS controls on critical APIs.
+
+### 🧠 Technical Profile (EN)
+Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security engineering, performance, and applied math. Ongoing interest in **quantum computing**.
+
+- Core: **Go, Java, Node.js, Python, PHP** · **PostgreSQL/MySQL/MongoDB**
+- DevOps: **Docker, Kubernetes, Terraform, CI/CD**
+- Security: **mTLS, JWT, OWASP ASVS, hardening**
+
+### 📌 Featured Projects (EN)
+| Project | What it does | Stack |
+|---|---|---|
+| **API Health Monitor** | SaaS for API monitoring, alerts, reports | FastAPI · Prometheus · Grafana · K8s |
+| **TataKids** | Mobile educational game (numbers/alphabet) | React Native · MMKV · Lottie |
+| **SeguClick** | Extension for insurance agents (productivity) | JS/TS · Browser APIs |
+
+> More on **cv4me.net**
+
+### 🔥 Highlights (EN)
+- **High-performance APIs** with end-to-end **observability**.  
+- **CI/CD** & GitOps; reproducible infra with **Terraform**.  
+- **In-transit encryption** (mTLS), hardening, secrets mgmt.  
+- Background in **algorithmic optimization**.  
+- ⚛️ Ongoing: **Quantum Programming Certification (2025)**.
