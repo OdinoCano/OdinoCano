@@ -1,4 +1,4 @@
-name: Update README recent projects
+name: Update README recent projects (split originals & forks)
 
 on:
   schedule:
@@ -12,35 +12,58 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - name: Build projects section
         id: build
         uses: actions/github-script@v7
+        env:
+          GH_USER: OdinoCano   # <-- tu usuario
+          MAX_COUNT: "8"       # <-- cuantos mostrar por lista
         with:
+          # Para públicos: usa el token por defecto.
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          # Para incluir privados de TODA tu cuenta:
+          # github-token: ${{ secrets.REPO_TOKEN }}   # <-- crea un PAT con scope repo
           script: |
-            const USER = 'OdinoCano'; // <-- cámbialo si tu username cambia
+            const USER = process.env.GH_USER;
+            const MAX = parseInt(process.env.MAX_COUNT, 10) || 8;
+
+            // ------- Elige UNA de estas dos llamadas --------
+            // 1) Solo públicos del usuario
             const { data: repos } = await github.rest.repos.listForUser({
               username: USER,
               sort: 'updated',
-              per_page: 10,
+              per_page: 100
             });
-            const filtered = repos
-              .filter(r => !r.fork && !r.private)
-              .slice(0, 5);
 
-            function fmt(r){
+            // 2) Públicos + privados del usuario autenticado (requiere PAT en REPO_TOKEN)
+            // const { data: repos } = await github.rest.repos.listForAuthenticatedUser({
+            //   visibility: 'all',
+            //   affiliation: 'owner,collaborator,organization_member',
+            //   sort: 'updated',
+            //   per_page: 100
+            // });
+
+            const originals = repos.filter(r => !r.fork).slice(0, MAX);
+            const forks = repos.filter(r => r.fork).slice(0, MAX);
+
+            const fmt = (r) => {
               const lang = r.language ? ` · ${r.language}` : '';
               const stars = r.stargazers_count ? ` · ⭐ ${r.stargazers_count}` : '';
               const updated = new Date(r.updated_at).toISOString().slice(0,10);
-              const desc = r.description ? r.description.replace(/\r?\n|\r/g, ' ') : '';
-              return `- **[${r.name}](${r.html_url})** — ${desc}${lang}${stars} · _updated ${updated}_`;
-            }
+              const desc = (r.description || '').replace(/\r?\n|\r/g, ' ').trim();
+              return `- **[${r.name}](${r.html_url})** — ${desc || 'sin descripción'}${lang}${stars} · _updated ${updated}_`;
+            };
 
-            const lines = filtered.length
-              ? filtered.map(fmt).join('\n')
-              : '_No public repositories found._';
+            const sec = [
+              `### 🧩 Originales`,
+              originals.length ? originals.map(fmt).join('\n') : '_Sin repos originales recientes._',
+              ``,
+              `### 🍴 Forks`,
+              forks.length ? forks.map(fmt).join('\n') : '_Sin forks recientes._'
+            ].join('\n');
 
-            core.setOutput('section', lines);
+            core.setOutput('section', sec);
 
       - name: Inject into README
         run: |
@@ -50,16 +73,11 @@ jobs:
           CONTENT="${{ steps.build.outputs.section }}"
 
           awk -v start="$START" -v end="$END" -v repl="$CONTENT" '
-            BEGIN{printed=0}
-            { 
-              if ($0 ~ start) { print; print repl; skip=1; next }
-              if ($0 ~ end) { skip=0; printed=1 }
-              if (!skip) print
-            }
-            END{
-              if (!printed) {
-                print start "\n" repl "\n" end
-              }
+            BEGIN{inside=0}
+            {
+              if ($0 ~ start) { print; print repl; inside=1; next }
+              if ($0 ~ end) { inside=0 }
+              if (!inside) print
             }
           ' "$FILE" > tmp && mv tmp "$FILE"
 
@@ -72,5 +90,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore(readme): refresh recent projects"
+          git commit -m "chore(readme): split originals & forks (auto)"
           git push
