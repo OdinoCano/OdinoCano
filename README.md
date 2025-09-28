@@ -54,11 +54,18 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** —  · ⭐ 1 · _updated 2025-09-27_
+### 🧩 Originales
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — sin descripción · ⭐ 1 · _updated 2025-09-27_
 - **[asistencia](https://github.com/OdinoCano/asistencia)** — Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco · JavaScript · _updated 2025-09-01_
-- **[SeguClick](https://github.com/OdinoCano/SeguClick)** —  · JavaScript · _updated 2025-08-14_
+- **[SeguClick](https://github.com/OdinoCano/SeguClick)** — sin descripción · JavaScript · _updated 2025-08-14_
 - **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — Cifrador de unidades USB con algoritmos post-cuánticos · Python · _updated 2025-08-02_
-- **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** —  · PowerShell · _updated 2025-07-11_
+- **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** — sin descripción · PowerShell · _updated 2025-07-11_
+- **[GoFirewall](https://github.com/OdinoCano/GoFirewall)** — sin descripción · C · _updated 2025-06-18_
+- **[CirqQasmParser](https://github.com/OdinoCano/CirqQasmParser)** — sin descripción · Python · _updated 2025-06-11_
+- **[NovelVisualEffect](https://github.com/OdinoCano/NovelVisualEffect)** — sin descripción · Python · _updated 2025-06-11_
+
+### 🍴 Forks
+- **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
 <!--END_SECTION:projects-->
 
 ## 📊 GitHub (ligero)
