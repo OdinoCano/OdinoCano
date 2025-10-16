@@ -56,7 +56,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 <!--START_SECTION:projects-->
 ### 🧩 Originales
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-10-14_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-10-15_
 - **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** — Automatiza la preparación de estaciones de trabajo Windows · PowerShell · _updated 2025-09-29_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · _updated 2025-09-29_
 - **[asistencia](https://github.com/OdinoCano/asistencia)** — Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco · JavaScript · _updated 2025-09-01_
