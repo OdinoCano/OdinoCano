@@ -55,7 +55,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-11-12_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-11-13_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
 - **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** — Automatiza la preparación de estaciones de trabajo Windows · PowerShell · _updated 2025-09-29_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · _updated 2025-09-29_
@@ -65,6 +65,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 - **[CirqQasmParser](https://github.com/OdinoCano/CirqQasmParser)** — sin descripción · Python · _updated 2025-06-11_
 
 ### 🍴 Forks
+- **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
 - **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
 <!--END_SECTION:projects-->
 
