@@ -69,11 +69,11 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 - **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
 <!--END_SECTION:projects-->
 
-## 📊 GitHub (ligero)
+## 📊 GitHub Stats
 <div align="center">
-  ![Followers](https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github)
-  ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OdinoCano&label=Public%20Repos&query=$.public_repos&color=blue&logo=github)
-  ![Profile Views](https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue&logo=github)
+  <img src="https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/OdinoCano?style=flat&logo=github" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue" alt="Profile Views">
 </div>
 
 ---
@@ -156,9 +156,9 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 
 ## 📊 GitHub (light)
 <div align="center">
-  ![Followers](https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github)
-  ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OdinoCano&label=Public%20Repos&query=$.public_repos&color=blue&logo=github)
-  ![Profile Views](https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue&logo=github)
+  <img src="https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/OdinoCano?style=flat&logo=github" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue" alt="Profile Views">
 </div>
 
 ---
