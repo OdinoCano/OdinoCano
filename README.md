@@ -71,10 +71,9 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 
 ## 📊 GitHub (ligero)
 <div align="center">
-  <img alt="GitHub Stats" height="160"
-       src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&theme=transparent" />
-  <img alt="Streak" height="160"
-       src="https://streak-stats.demolab.com?user=OdinoCano&theme=transparent" />
+  ![Followers](https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github)
+  ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OdinoCano&label=Public%20Repos&query=$.public_repos&color=blue&logo=github)
+  ![Profile Views](https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue&logo=github)
 </div>
 
 ---
@@ -121,3 +120,50 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 - **In-transit encryption** (mTLS), hardening, secrets mgmt.  
 - Background in **algorithmic optimization**.  
 - ⚛️ Ongoing: **Quantum Programming Certification (2025)**.
+
+---
+
+## 🧰 Tech (detail)
+<details>
+<summary>View more</summary>
+
+**Cloud & DevOps**: AWS, Azure, GCP · Docker · Kubernetes · Terraform · GitHub Actions  
+**Back**: Go, Java (Spring), Node.js (Express/Fastify), Python (FastAPI), PHP (Laravel)  
+**Data**: PostgreSQL, MySQL, MongoDB, Neo4j, Databricks  
+**Front/Mobile**: React, Angular, React Native, Flutter · Android/iOS  
+**Security**: OWASP ASVS, mTLS, JWT, SAST/DAST, hardening
+
+</details>
+
+---
+
+## 🔄 Recent projects (auto-updated)
+<!--START_SECTION:projects-->
+### 🧩 Originals
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-12-22_
+- **[autogit](https://github.com/OdinoCano/autogit)** — Automation tool to keep multiple Git repositories updated with a single command. · Python · _updated 2025-12-11_
+- **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — no description · TypeScript · _updated 2025-10-15_
+- **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** — Automates Windows workstation setup · PowerShell · _updated 2025-09-29_
+- **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Tools for insurance salespeople · JavaScript · _updated 2025-09-29_
+- **[asistencia](https://github.com/OdinoCano/asistencia)** — Real-time attendance monitoring system for ZKTeco biometric devices · JavaScript · _updated 2025-09-01_
+- **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — USB drive encryptor with post-quantum algorithms · Python · _updated 2025-08-02_
+- **[GoFirewall](https://github.com/OdinoCano/GoFirewall)** — no description · C · _updated 2025-06-18_
+
+### 🍴 Forks
+- **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
+- **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
+<!--END_SECTION:projects-->
+
+## 📊 GitHub (light)
+<div align="center">
+  ![Followers](https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github)
+  ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/OdinoCano&label=Public%20Repos&query=$.public_repos&color=blue&logo=github)
+  ![Profile Views](https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue&logo=github)
+</div>
+
+---
+
+## 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000.svg?logo=vercel&logoColor=white)](https://cv4me.net)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:edgarcano.166@gmail.com)
