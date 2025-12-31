@@ -80,36 +80,27 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 | [**ScriptConfiguration**](https://github.com/OdinoCano/ScriptConfiguration) | Automatiza la preparación de estaciones de trabajo Windows | PowerShell, Windows |
 | [**MiChatApp**](https://github.com/OdinoCano/MiChatApp) | Aplicación de chat con cifrado end-to-end | TypeScript, React Native |
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
-<a href="https://github.com/OdinoCano#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&hide_rank=false&theme=default&include_all_commits=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub-Stats-Light" /></a>
-<a href="https://github.com/OdinoCano#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OdinoCano&layout=compact&theme=default&langs_count=8#gh-light-mode-only" width="48%" alt="Top-Langs-Light" /></a>
-
-<a href="https://github.com/OdinoCano#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&hide_rank=false&theme=tokyonight&include_all_commits=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub-Stats-Dark" /></a>
-<a href="https://github.com/OdinoCano#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OdinoCano&layout=compact&theme=tokyonight&langs_count=8#gh-dark-mode-only" width="48%" alt="Top-Langs-Dark" /></a>
-
-### 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdinoCano&theme=default#gh-light-mode-only" alt="GitHub Streak Light" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdinoCano&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak Dark" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdinoCano&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OdinoCano&theme=radical)
+
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OdinoCano&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+### 💯 Profile Metrics
 
-### 📊 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdinoCano&theme=github-compact#gh-light-mode-only" alt="Activity Graph Light" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdinoCano&theme=tokyo-night#gh-dark-mode-only" alt="Activity Graph Dark" />
-</div>
 
-### 💯 Profile Stats
-<div align="center">
-  <img src="https://img.shields.io/github/followers/OdinoCano?style=for-the-badge&logo=github" alt="Followers">
-  <img src="https://img.shields.io/github/stars/OdinoCano?style=for-the-badge&logo=github" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+![Followers](https://img.shields.io/github/followers/OdinoCano?style=for-the-badge&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/OdinoCano?style=for-the-badge&logo=github&label=Total%20Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOdinoCano)
+
 </div>
 
 ---
