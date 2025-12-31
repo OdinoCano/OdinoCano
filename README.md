@@ -1,6 +1,6 @@
 # 🚀 Senior Full-Stack Developer · Cloud Security (Zero Trust)
 
-**Arquitecto de sistemas escalables y seguros** · +10 años · Cloud-Native · Optimizaciones con base matemática
+**Arquitecto de sistemas escalables y seguros** · +10 años · [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Cloud-Native+;Optimizaciones+con+base+matem%C3%A1tica)](https://git.io/typing-svg)
 
 [🌐 Portafolio](https://cv4me.net) · [💼 LinkedIn](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228) · [✉️ Email](mailto:edgarcano.166@gmail.com)
 
