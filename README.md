@@ -84,11 +84,11 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<a href="https://github.com/OdinoCano#gh-light-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api?username=OdinoCano&show_icons=true&hide_rank=true&theme=swift#gh-light-mode-only" width="274px" alt="GitHub-Stats-Light" /></a>
+<a href="https://github.com/OdinoCano#gh-light-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api/top-langs?username=OdinoCano&layout=compact&theme=swift#gh-light-mode-only" width="320px" alt="Top-Langs-Light" /></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdinoCano&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OdinoCano&theme=radical)
+<a href="https://github.com/OdinoCano#gh-dark-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api?username=OdinoCano&show_icons=true&hide_rank=true&theme=cobalt#gh-dark-mode-only" width="274px" alt="GitHub-Stats-Dark" /></a>
+<a href="https://github.com/OdinoCano#gh-dark-mode-only"><img src="https://github-readme-stats-one-gamma-40.vercel.app/api/top-langs?username=OdinoCano&layout=compact&theme=cobalt#gh-dark-mode-only" width="320px" alt="Top-Langs-Dark" /></a>
 
 </div>
 
