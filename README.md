@@ -69,19 +69,129 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 - **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
 <!--END_SECTION:projects-->
 
-## 📊 GitHub Stats
+## � Proyectos Destacados
+
+| **Proyecto** | **Descripción** | **Stack** |
+|--------------|---------------------|----------|
+| [**asistencia**](https://github.com/OdinoCano/asistencia) | Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco | JavaScript, Node.js, ZKTeco SDK |
+| [**USBCrypt**](https://github.com/OdinoCano/USBCrypt) | Cifrador de unidades USB con algoritmos post-cuánticos | Python, Cryptography |
+| [**SeguClick**](https://github.com/OdinoCano/SeguClick) | Herramientas para el vendedor de seguros (extensión de navegador) | JavaScript, Browser APIs |
+| [**autogit**](https://github.com/OdinoCano/autogit) | Herramienta de automatización para mantener actualizados múltiples repositorios Git | Python, Git |
+| [**ScriptConfiguration**](https://github.com/OdinoCano/ScriptConfiguration) | Automatiza la preparación de estaciones de trabajo Windows | PowerShell, Windows |
+| [**MiChatApp**](https://github.com/OdinoCano/MiChatApp) | Aplicación de chat con cifrado end-to-end | TypeScript, React Native |
+
+## � GitHub Stats
+
+<a href="https://github.com/OdinoCano#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&hide_rank=false&theme=default&include_all_commits=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub-Stats-Light" /></a>
+<a href="https://github.com/OdinoCano#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OdinoCano&layout=compact&theme=default&langs_count=8#gh-light-mode-only" width="48%" alt="Top-Langs-Light" /></a>
+
+<a href="https://github.com/OdinoCano#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=OdinoCano&show_icons=true&hide_rank=false&theme=tokyonight&include_all_commits=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub-Stats-Dark" /></a>
+<a href="https://github.com/OdinoCano#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=OdinoCano&layout=compact&theme=tokyonight&langs_count=8#gh-dark-mode-only" width="48%" alt="Top-Langs-Dark" /></a>
+
+### 🔥 Streak Stats
 <div align="center">
-  <img src="https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github" alt="Followers">
-  <img src="https://img.shields.io/github/stars/OdinoCano?style=flat&logo=github" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue" alt="Profile Views">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdinoCano&theme=default#gh-light-mode-only" alt="GitHub Streak Light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OdinoCano&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak Dark" />
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OdinoCano&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+### 📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdinoCano&theme=github-compact#gh-light-mode-only" alt="Activity Graph Light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdinoCano&theme=tokyo-night#gh-dark-mode-only" alt="Activity Graph Dark" />
+</div>
+
+### 💯 Profile Stats
+<div align="center">
+  <img src="https://img.shields.io/github/followers/OdinoCano?style=for-the-badge&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/OdinoCano?style=for-the-badge&logo=github" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </div>
 
 ---
 
+## 🛠️ Tech Stack
+
+### Lenguajes
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### Herramientas & Otros
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 ## 🤝 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000.svg?logo=vercel&logoColor=white)](https://cv4me.net)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:edgarcano.166@gmail.com)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://cv4me.net)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarcano.166@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OdinoCano)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "El mejor código es el que resuelve problemas reales con elegancia y seguridad."
+
+</div>
+
+<details>
+  <summary>⚠️ DISCLAIMER</summary>
+
+  > All the tools and projects associated with this GitHub account are provided for educational and research purposes only. The owner of the account is not responsible for any illegal or malicious use of any of the related tooling or code.
+</details>
 
 ---
 
@@ -149,21 +259,3 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 - **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — Cifrador de unidades USB con algoritmos post-cuánticos · Python · _updated 2025-08-02_
 - **[GoFirewall](https://github.com/OdinoCano/GoFirewall)** — sin descripción · C · _updated 2025-06-18_
 
-### 🍴 Forks
-- **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
-- **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
-<!--END_SECTION:projects-->
-
-## 📊 GitHub (light)
-<div align="center">
-  <img src="https://img.shields.io/github/followers/OdinoCano?style=flat&logo=github" alt="Followers">
-  <img src="https://img.shields.io/github/stars/OdinoCano?style=flat&logo=github" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=OdinoCano&label=Profile%20Views&color=blue" alt="Profile Views">
-</div>
-
----
-
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-misael-cano-dominguez-234333228)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000.svg?logo=vercel&logoColor=white)](https://cv4me.net)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:edgarcano.166@gmail.com)
