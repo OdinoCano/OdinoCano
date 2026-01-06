@@ -55,6 +55,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
+- **[security](https://github.com/OdinoCano/security)** — sin descripción · TeX · _updated 2026-01-05_
 - **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-12-31_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2025-12-11_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
@@ -62,7 +63,6 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · _updated 2025-09-29_
 - **[asistencia](https://github.com/OdinoCano/asistencia)** — Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco · JavaScript · _updated 2025-09-01_
 - **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — Cifrador de unidades USB con algoritmos post-cuánticos · Python · _updated 2025-08-02_
-- **[GoFirewall](https://github.com/OdinoCano/GoFirewall)** — sin descripción · C · _updated 2025-06-18_
 
 ### 🍴 Forks
 - **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
@@ -241,6 +241,7 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 ## 🔄 Recent projects (auto-updated)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
+- **[security](https://github.com/OdinoCano/security)** — sin descripción · TeX · _updated 2026-01-05_
 - **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2025-12-31_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2025-12-11_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
@@ -248,7 +249,6 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · _updated 2025-09-29_
 - **[asistencia](https://github.com/OdinoCano/asistencia)** — Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco · JavaScript · _updated 2025-09-01_
 - **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — Cifrador de unidades USB con algoritmos post-cuánticos · Python · _updated 2025-08-02_
-- **[GoFirewall](https://github.com/OdinoCano/GoFirewall)** — sin descripción · C · _updated 2025-06-18_
 
 ### 🍴 Forks
 - **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
