@@ -55,14 +55,14 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-01-13_
+- **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · _updated 2026-01-15_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-01-14_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · TeX · _updated 2026-01-05_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2025-12-11_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
 - **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** — Automatiza la preparación de estaciones de trabajo Windows · PowerShell · _updated 2025-09-29_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · _updated 2025-09-29_
 - **[asistencia](https://github.com/OdinoCano/asistencia)** — Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco · JavaScript · _updated 2025-09-01_
-- **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — Cifrador de unidades USB con algoritmos post-cuánticos · Python · _updated 2025-08-02_
 
 ### 🍴 Forks
 - **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
@@ -241,14 +241,14 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 ## 🔄 Recent projects (auto-updated)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-01-13_
+- **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · _updated 2026-01-15_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-01-14_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · TeX · _updated 2026-01-05_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2025-12-11_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
 - **[ScriptConfiguration](https://github.com/OdinoCano/ScriptConfiguration)** — Automatiza la preparación de estaciones de trabajo Windows · PowerShell · _updated 2025-09-29_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · _updated 2025-09-29_
 - **[asistencia](https://github.com/OdinoCano/asistencia)** — Sistema de monitoreo de asistencia en tiempo real para dispositivos biométricos ZKTeco · JavaScript · _updated 2025-09-01_
-- **[USBCrypt](https://github.com/OdinoCano/USBCrypt)** — Cifrador de unidades USB con algoritmos post-cuánticos · Python · _updated 2025-08-02_
 
 ### 🍴 Forks
 - **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
