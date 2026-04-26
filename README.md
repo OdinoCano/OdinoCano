@@ -55,7 +55,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-04-24_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-04-25_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2026-01-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · _updated 2026-01-15_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · TeX · _updated 2026-01-05_
@@ -241,7 +241,7 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 ## 🔄 Recent projects (auto-updated)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-04-24_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-04-25_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2026-01-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · _updated 2026-01-15_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · TeX · _updated 2026-01-05_
