@@ -55,11 +55,11 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-05-17_
+- **[3va](https://github.com/OdinoCano/3va)** — sin descripción · Rust · ⭐ 1 · _updated 2026-05-18_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-05-18_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · ⭐ 1 · _updated 2026-05-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · ⭐ 1 · _updated 2026-05-15_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · Shell · ⭐ 1 · _updated 2026-05-15_
-- **[3va](https://github.com/OdinoCano/3va)** — sin descripción · Rust · ⭐ 1 · _updated 2026-05-15_
 - **[llama.rs](https://github.com/OdinoCano/llama.rs)** — sin descripción · Rust · ⭐ 1 · _updated 2026-05-15_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2026-01-15_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
@@ -241,11 +241,11 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 ## 🔄 Recent projects (auto-updated)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-05-17_
+- **[3va](https://github.com/OdinoCano/3va)** — sin descripción · Rust · ⭐ 1 · _updated 2026-05-18_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-05-18_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · ⭐ 1 · _updated 2026-05-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · ⭐ 1 · _updated 2026-05-15_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · Shell · ⭐ 1 · _updated 2026-05-15_
-- **[3va](https://github.com/OdinoCano/3va)** — sin descripción · Rust · ⭐ 1 · _updated 2026-05-15_
 - **[llama.rs](https://github.com/OdinoCano/llama.rs)** — sin descripción · Rust · ⭐ 1 · _updated 2026-05-15_
 - **[autogit](https://github.com/OdinoCano/autogit)** — Herramienta de automatización para mantener actualizados múltiples repositorios Git con un solo comando. · Python · _updated 2026-01-15_
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
