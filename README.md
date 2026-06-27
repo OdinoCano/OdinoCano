@@ -55,8 +55,8 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[3va](https://github.com/OdinoCano/3va)** — It's a secure-by-default JavaScript and TypeScript runtime written in Rust. · Rust · ⭐ 2 · _updated 2026-06-25_
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-06-25_
+- **[3va](https://github.com/OdinoCano/3va)** — It's a secure-by-default JavaScript and TypeScript runtime written in Rust. · Rust · ⭐ 2 · _updated 2026-06-26_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-06-26_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · ⭐ 1 · _updated 2026-05-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · ⭐ 1 · _updated 2026-05-15_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · Shell · ⭐ 1 · _updated 2026-05-15_
@@ -65,7 +65,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
 
 ### 🍴 Forks
-- **[winget-pkgs](https://github.com/OdinoCano/winget-pkgs)** — The Microsoft community Windows Package Manager manifest repository · _updated 2026-06-25_
+- **[winget-pkgs](https://github.com/OdinoCano/winget-pkgs)** — The Microsoft community Windows Package Manager manifest repository · _updated 2026-06-26_
 - **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
 - **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
 <!--END_SECTION:projects-->
@@ -242,8 +242,8 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 ## 🔄 Recent projects (auto-updated)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[3va](https://github.com/OdinoCano/3va)** — It's a secure-by-default JavaScript and TypeScript runtime written in Rust. · Rust · ⭐ 2 · _updated 2026-06-25_
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-06-25_
+- **[3va](https://github.com/OdinoCano/3va)** — It's a secure-by-default JavaScript and TypeScript runtime written in Rust. · Rust · ⭐ 2 · _updated 2026-06-26_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-06-26_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · ⭐ 1 · _updated 2026-05-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · ⭐ 1 · _updated 2026-05-15_
 - **[security](https://github.com/OdinoCano/security)** — sin descripción · Shell · ⭐ 1 · _updated 2026-05-15_
@@ -252,6 +252,6 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 - **[MiChatApp](https://github.com/OdinoCano/MiChatApp)** — sin descripción · TypeScript · _updated 2025-10-15_
 
 ### 🍴 Forks
-- **[winget-pkgs](https://github.com/OdinoCano/winget-pkgs)** — The Microsoft community Windows Package Manager manifest repository · _updated 2026-06-25_
+- **[winget-pkgs](https://github.com/OdinoCano/winget-pkgs)** — The Microsoft community Windows Package Manager manifest repository · _updated 2026-06-26_
 - **[flowsint](https://github.com/OdinoCano/flowsint)** — A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · TypeScript · _updated 2025-11-13_
 - **[usbrip](https://github.com/OdinoCano/usbrip)** — Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux · _updated 2019-09-04_
