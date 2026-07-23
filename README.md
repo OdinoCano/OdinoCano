@@ -55,7 +55,7 @@ Full-Stack Senior en fintech, gobierno e IoT. Cloud (AWS/Azure/GCP), seguridad a
 ## 🔄 Proyectos recientes (auto-actualizados)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-07-21_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-07-22_
 - **[3va](https://github.com/OdinoCano/3va)** — It's a secure-by-default JavaScript and TypeScript runtime written in Rust. · Rust · ⭐ 2 · _updated 2026-07-17_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · ⭐ 1 · _updated 2026-05-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · ⭐ 1 · _updated 2026-05-15_
@@ -242,7 +242,7 @@ Senior full-stack across fintech, gov, and IoT. Cloud (AWS/Azure/GCP), security 
 ## 🔄 Recent projects (auto-updated)
 <!--START_SECTION:projects-->
 ### 🧩 Originales
-- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-07-21_
+- **[OdinoCano](https://github.com/OdinoCano/OdinoCano)** — Profile description · ⭐ 1 · _updated 2026-07-22_
 - **[3va](https://github.com/OdinoCano/3va)** — It's a secure-by-default JavaScript and TypeScript runtime written in Rust. · Rust · ⭐ 2 · _updated 2026-07-17_
 - **[SeguClick](https://github.com/OdinoCano/SeguClick)** — Herramientas para el vendedor de seguros · JavaScript · ⭐ 1 · _updated 2026-05-15_
 - **[dev-setup](https://github.com/OdinoCano/dev-setup)** — Scripts de automatización para preparar un entorno de desarrollo en Distros GNU Linux. · Shell · ⭐ 1 · _updated 2026-05-15_
